@@ -24,7 +24,7 @@ A beautiful community website built with React and Tailwind CSS where users can 
 1. Clone the repository:
 bash
 git clone <repository-url>
-cd rainy-day-snacks
+cd snackStrom
 
 
 2. Install dependencies:
@@ -78,12 +78,7 @@ src/
 - *Custom Color Palette*: Primary and secondary color schemes
 - *Typography*: Poppins font for modern look
 
-## 🔧 Available Scripts
 
-- npm start - Runs the app in development mode
-- npm build - Builds the app for production
-- npm test - Launches the test runner
-- npm eject - Ejects from Create React App
 
 ## 📱 Responsive Design
 
@@ -111,9 +106,7 @@ npm run build
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
